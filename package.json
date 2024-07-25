@@ -1,6 +1,6 @@
 {
   "name": "udemy-practise",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://UvereAnn.github.io/",
   "type": "module",
