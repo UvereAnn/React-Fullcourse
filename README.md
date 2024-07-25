@@ -1,8 +1,19 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# React - The Complete Course 
 
-Currently, two official plugins are available:
+This repository provides access to code files. These files include:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+# Repository Content
+- **JSX:**
+- **Props:** 
+- **React Components:** 
+- **State in React:** 
+- **Lists and Keys in React:** 
+- **Life Cycle Methods in React:** 
+- **Styling in React:** 
+- **Form Handling in React:** 
+- **Data Handling in React:** 
+- **Reconciliation Process in React:** 
+- **Custom React Hooks:** 
+- **Context in React:** 
